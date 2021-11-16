@@ -1,0 +1,13 @@
+void main(){
+  int age=21;
+  String city= "Sahiwal";
+  String name="Nabeel Ahmad";
+  print("My name is $name");
+  print("My Age is $age");
+  print("I live in $city");
+  print("My Age number is Even \n and answer is\n${age.isEven}");
+  print("My name chracter is ${name.length}");
+  
+  
+  
+}
